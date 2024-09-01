@@ -1,0 +1,26 @@
+{
+  "name": "barito",
+  "displayName": "barito",
+  "description": "vscode theme",
+  "version": "0.0.1",
+  "publisher": "levensspel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/levensspel/barito-theme-vsce.git"
+  },
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Barito",
+        "uiTheme": "vs-dark",
+        "path": "./themes/barito-color-theme.json"
+      }
+    ]
+  }
+}
