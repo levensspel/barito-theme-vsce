@@ -1,19 +1,34 @@
 {
   "name": "barito",
-  "displayName": "barito",
-  "description": "vscode theme",
+  "displayName": "Barito",
+  "description": "Barito Theme for VS Code",
   "version": "0.0.1",
   "publisher": "levensspel",
+  "author": {
+    "name": "Levens",
+    "email": "levensspiel@gmail.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/levensspel/barito-theme-vsce.git"
   },
+  "bugs": {
+    "email": "levensspiel@gmail.com",
+    "url": "https://github.com/levensspel/barito-theme-vsce/issues"
+  },
+  "homepage": "https://github.com/levensspel/barito-theme-vsce",
   "engines": {
     "vscode": "^1.92.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+        "Themes",
+        "Dark Theme",
+        "color-theme",
+        "Barito"
+    ],
   "contributes": {
     "themes": [
       {
