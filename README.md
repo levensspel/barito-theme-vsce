@@ -9,7 +9,7 @@
   But bring what makes different.
 </p>
 
-![barito-preview]("https://raw.githubusercontent.com/levensspel/barito-theme-vsce/master/images/preview.png")
+![barito-preview](https://raw.githubusercontent.com/levensspel/barito-theme-vsce/master/images/preview.png)
 
 ## Installation via VS Code
 
