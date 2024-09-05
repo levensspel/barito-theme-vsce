@@ -2,7 +2,7 @@
   "name": "barito",
   "displayName": "Barito",
   "description": "Barito Theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "levensspel",
   "author": {
     "name": "Levens",
@@ -24,11 +24,11 @@
     "Themes"
   ],
   "keywords": [
-        "Themes",
-        "Dark Theme",
-        "color-theme",
-        "Barito"
-    ],
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Barito"
+  ],
   "contributes": {
     "themes": [
       {
