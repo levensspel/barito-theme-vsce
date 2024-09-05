@@ -1,16 +1,20 @@
-# barito README
+<p align="center">
+  <img alt="Barito Logo" src="https://raw.githubusercontent.com/levensspel/barito-theme-vsce/master/images/logo.png" width="100" />
+</p>
+<h1 align="center">
+  Barito Theme for VS Code
+</h1>
+<p align="center">
+  Coffee, Lo-Fi Music, Calmness of The Night. <br>
+  But bring what makes different.
+</p>
 
-## Working with Markdown
+![barito-preview]("https://raw.githubusercontent.com/levensspel/barito-theme-vsce/master/images/preview.png")
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Installation via VS Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Barito`
+3. Click **Install** to install it
+4. Click **Reload** to reload the editor
+5. Code > Preferences > Color Theme > **Barito**
